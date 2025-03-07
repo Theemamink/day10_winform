@@ -1,0 +1,10 @@
+C:\จารซารัน\DAY10\DAY10\bin\Debug\DAY10.exe.config
+C:\จารซารัน\DAY10\DAY10\bin\Debug\DAY10.exe
+C:\จารซารัน\DAY10\DAY10\bin\Debug\DAY10.pdb
+C:\จารซารัน\DAY10\DAY10\obj\Debug\DAY10.csproj.AssemblyReference.cache
+C:\จารซารัน\DAY10\DAY10\obj\Debug\DAY10.Form1.resources
+C:\จารซารัน\DAY10\DAY10\obj\Debug\DAY10.Properties.Resources.resources
+C:\จารซารัน\DAY10\DAY10\obj\Debug\DAY10.csproj.GenerateResource.cache
+C:\จารซารัน\DAY10\DAY10\obj\Debug\DAY10.csproj.CoreCompileInputs.cache
+C:\จารซารัน\DAY10\DAY10\obj\Debug\DAY10.exe
+C:\จารซารัน\DAY10\DAY10\obj\Debug\DAY10.pdb
